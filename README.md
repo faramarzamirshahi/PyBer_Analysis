@@ -4,7 +4,7 @@
 V. Isualize has given you and Omar a brand-new assignment. Using your Python skills and knowledge of Pandas, you’ll create a summary DataFrame of the ride-sharing data by city type. Then, using Pandas and Matplotlib, you’ll create a multiple-line graph that shows the total weekly fares for each city type. Finally, you’ll submit a written report that summarizes how the data differs by city type and how those differences can be used by decision-makers at PyBer.
 
 ## Results
-describe the differences in ride-sharing data among the different city types.
+We are going to describe the differences in ride-sharing data among the different city types.
 To plot the trend by time we first need to create a dataframe for the sum of fares for each city
 
 ![Fare summary by city type](analysis/PyBer_SummaryByCityType.png)
@@ -19,7 +19,7 @@ We then pivot the above
 
 Create a subset for timeframe of January to April and convert the index to a datetime
 
-![Fitered dataframe with date index](analyis/PyBer_SummaryFiltered.png)
+![Fitered dataframe with date index](analysis/PyBer_SummaryFiltered.png)
 
 In order to be able to pivot the results for each week we need to convert the index type to datetime
 The figure below shows that the index is now in datetime
