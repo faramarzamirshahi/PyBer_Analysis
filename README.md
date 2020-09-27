@@ -38,8 +38,8 @@ And finally we draw the plot
 Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
 * Rural fares are one eighth of the urban fares
 * Suburban fares are half of the ubran fares
-The above city types need more attention, possibly by hiring more drivers<br>
-This will also reduce the average fare for a rider and becomes an incentive to increase the number of riders
+The above city types need more attention, specially the rural cities. This can be done by hiring more drivers<br>
+This strategy also reduces the average fare per rider and becomes an incentive to increase the number of riders
 
 ![PyBer Summary](analysis/PyBer_Summary.png)
 
