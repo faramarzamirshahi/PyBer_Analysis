@@ -6,7 +6,9 @@ V. Isualize has given you and Omar a brand-new assignment. Using your Python ski
 ## Results
 describe the differences in ride-sharing data among the different city types.
 To plot the trend by time we first need to create a dataframe for the sum of fares for each city
-![Fare summary by city type]('/analysis/PyBer_SummaryByCityType')
+
+![Fare summary by city type]('analysis/PyBer_SummaryByCityType')
+
 Next we create a summary for the type and fare by date
 ![Fare summary by date]('/analysis/PyBer_SummaryByDate.png')
 We then pivot the above 
